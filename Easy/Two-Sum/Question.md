@@ -6,8 +6,6 @@ You may assume that each input would have exactly one solution, and you may not 
 
 You can return the answer in any order.<br>
 
- 
-
 Example 1:<br>
 Input: nums = [2,7,11,15], target = 9<br>
 Output: [0,1]<br>
