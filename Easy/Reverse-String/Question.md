@@ -4,8 +4,6 @@ Write a function that reverses a string. The input string is given as an array o
 
 You must do this by modifying the input array in-place with O(1) extra memory.<br>
 
- 
-
 Example 1:<br>
 Input: s = ["h","e","l","l","o"]<br>
 Output: ["o","l","l","e","h"]<br>
