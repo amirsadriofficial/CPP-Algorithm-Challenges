@@ -5,7 +5,7 @@ public:
         for(int i=size-1; i>=0; i--){
             if(s[i] == ' ' && flag) break;
             if(s[i] != ' '){
-                flag=1;
+                flag = 1;
                 count++;
             }
         }
