@@ -4,8 +4,6 @@ You are given a large integer represented as an integer array digits, where each
 
 Increment the large integer by one and return the resulting array of digits.<br>
 
- 
-
 Example 1:<br>
 Input: digits = [1,2,3]<br>
 Output: [1,2,4]<br>
